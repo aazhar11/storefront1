@@ -1,0 +1,111 @@
+/********************************************************************
+I declare that my assignment is wholly my own work in accordance with Seneca Academic Policy. No part of this assignment has been copied manually or electronically from any other source (including web sites) except for the information supplied by the WEB222 instructors and / or made available in this assignment for my use.
+I also declare that no part of this assignment has been distributed to other students.
+Name: Aima Azharaz
+Dated: April 11, 2020
+********************************************************************/
+/*style 1:*/
+#table3 {
+    background-image: url(https://unsplash.com/photos/Em96eDRJPD8);
+    background-repeat: no-repeat;
+    color: #2f4f4f;
+}
+h1{
+    color: rgb(88, 64, 64);
+    background-color: #f0ccc5;
+    text-transform: uppercase;
+    font-size:39px;
+    text-decoration: double;
+    text-shadow: blanchedalmond;
+    padding:2px 20px;
+}
+
+.main-body h2{
+    background-attachment: scroll;
+    background-color: #ad837b;
+    background-position: right bottom;
+    background-repeat: repeat;
+    color: rgb(238, 225, 225);
+    
+}
+
+
+h3{
+    color: rgb(238, 225, 225);
+    background-color: #ad837b;
+    font-size:25px;
+    text-align: center;
+    text-decoration: double;
+    text-shadow: blanchedalmond;
+}
+#tprice2 {
+    background-attachment: scroll;
+    background-color: #6895a3 ;
+    background-image:url(../static/background-position/img/car.png);
+    background-position: right bottom;
+    background-repeat: repeat;
+}
+h2{
+    text-align: center;
+    font-size: 27px;
+}
+.main-container {
+    background-attachment: scroll;
+    background-color: #EACBC4;
+  
+    background-position: right bottom;
+    background-repeat: repeat;
+}
+.main-body{
+    background-attachment: scroll;
+    background-color: #EACBC4;
+    background-position: right bottom;
+    background-repeat: repeat;
+    
+}
+
+header{
+    background-color: #EACBC4;
+    padding:5px 25px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+nav{
+    padding:10px;
+    background-color: rgb(185, 156, 156);
+}
+
+nav ul{
+    list-style-type: none;
+    padding-left:20px;
+    margin:0px;
+}
+
+nav ul li{
+    display:inline-block;
+    background-color: rgb(124, 95, 95);
+}
+
+nav ul li a{
+    background-color: rgb(185, 156, 156);
+    color: #eee;
+    text-decoration: none;
+    padding:0 5px;	
+    font-weight:bold;
+    text-transform: uppercase;
+    font-size:13px;
+}
+
+footer{
+    clear:both;
+    background-color: rgb(185, 156, 156);
+    color: #eee;
+    padding:10px;
+}
+footer h2{
+margin:0px;
+	text-transform: uppercase;
+	font-size:13px;
+    padding:0 5px;
+}
